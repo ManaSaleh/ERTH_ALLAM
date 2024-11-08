@@ -40,8 +40,11 @@ class AgentManager:
 
     def run(self):
         # Update the agent system prompt
+        print("\t=========")
         self.agent_config.update_system_prompt()
+        print("\t=========")
         agent = self.agent_config.get_agent()
+        print("\t=========", agent.get_prompts())
         print("Agent is ready for interaction.")
 
         while True:

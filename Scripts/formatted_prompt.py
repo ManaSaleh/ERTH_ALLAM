@@ -42,6 +42,8 @@ Answer: اعتذر منك الاجابة غير متوفره
 """
 
         self.formatted_query_template = f"""
+        {self.output_format}
+
 <s> [INST]<<sys>>
 ```
 ## How You Must Respond
@@ -88,7 +90,6 @@ Answer: اعتذر منك الاجابة غير متوفره
 - لا تكتب اسئلة من عندك فقط اجب على سؤال المستخدم
 ```
 <</sys>>
-{self.output_format}
 [/INST]
 """
     def get_prompt(self):

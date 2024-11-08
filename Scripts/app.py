@@ -69,7 +69,7 @@ async def query(request: QueryRequest):
     """
     try:
         response = agent_manager.query_agent(request.query)
-        return {"response": response}
+        return response
     except Exception as e:
         logging.error(f"Error querying agent: {e}")
         raise HTTPException(status_code=500, detail="An error occurred while processing the query.")
