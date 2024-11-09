@@ -29,7 +29,7 @@
 
 ## 🖼️ User Interface Preview
 
-![ERTH UI](UI/ERTH_UI.jpeg)
+![ERTH UI](Images/ERTH_UI.jpeg)
 
 ---
 
