@@ -1,5 +1,4 @@
-
-# إرث -ERTH
+# ERTH - إرث
 
 ## Project Overview
 
@@ -11,6 +10,17 @@
 - **Dynamic Interaction**: Users can ask questions and engage in conversation with the narrator, who responds with historical insights and well-structured answers.
 - **Historical Content**: Includes detailed information about Imam Muhammad bin Saud, his alliance with Sheikh Muhammad ibn Abdul-Wahhab, and his efforts in unifying Najd and establishing the first Saudi state.
 - **Educational and Cultural Resource**: Offers a platform to learn about Saudi history, culture, and the legacy of its founding figures.
+
+## Project Structure
+
+Here's an overview of the project folders and their contents:
+
+- **Data/**: Contains all necessary data files for the project, including historical texts and character datasets.
+- **NoteBook/**: Includes Jupyter notebooks for data exploration, model training, and experiment tracking.
+- **Documents/**: Holds additional documentation and resources, such as research papers, references, and historical background information.
+- **Evaluation/**: Contains scripts and files for evaluating model performance and interaction quality.
+- **Scripts/**: Includes Python scripts for various functions, such as data preprocessing, model training, and embedding generation.
+- **UI/**: Contains assets and configuration files for the user interface, including design files and any related images.
 
 ## Key Topics Covered
 
@@ -24,7 +34,7 @@
 
 Here’s a preview of the user interface:
 
-![ERTH UI](Images/ERTH_UI.jpeg)
+![ERTH UI](UI/ERTH_UI.jpeg)
 
 ## Technical Details
 
@@ -90,4 +100,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-This README provides a full overview of the project, instructions for setup and usage, as well as future enhancement plans. Let me know if you'd like any further customization!
+This README now provides a complete overview of the project, including the folder structure and the purpose of each directory. This structure can help new users and collaborators understand where to find each component of the project. Let me know if there are additional details you’d like to add!
