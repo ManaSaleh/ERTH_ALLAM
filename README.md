@@ -36,7 +36,7 @@ This project is organized into several directories for ease of use and modularit
 
 The user interface is designed to enhance interaction by providing an intuitive, engaging environment. Below is a preview of the UI:
 
-![ERTH UI](Imges/ERTH_UI.jpeg)
+![ERTH UI](Images/ERTH_UI.jpeg)
 
 ## Technical Specifications
 
