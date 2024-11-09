@@ -1,8 +1,5 @@
-Here’s the complete `README.md` with the UI image added:
 
----
-
-# إرث - Multi-Character Simulation
+# إرث -ERTH
 
 ## Project Overview
 
