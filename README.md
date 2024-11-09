@@ -24,7 +24,7 @@
 
 Here’s a preview of the user interface:
 
-![ERTH UI](Image/ERTH_UI.jpeg)
+![ERTH UI](Images/ERTH_UI.jpeg)
 
 ## Technical Details
 
