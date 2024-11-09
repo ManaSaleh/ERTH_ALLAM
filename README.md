@@ -17,13 +17,13 @@
 
 ## 📁 Project Structure
 ```txt
-- **Data/**: Historical texts, PDF documents, and preprocessed data essential for building the character’s narrative knowledge.
-- **Documents/**: Supplementary resources, including historical references and research materials.
-- **Evaluation/**: Scripts and tools for evaluating character response quality and simulation performance.
-- **Images/**: Visual assets such as UI screenshots and images for enhancing the user experience.
-- **Notebooks/**: Jupyter notebooks covering data preprocessing, model training, and agent setup.
-- **Scripts/**: Python scripts for tasks like data processing, model fine-tuning, and embedding management.
-- **UI/**: A Flutter-based user interface, providing an intuitive and visually engaging interaction layer.
+- Data/: Historical texts, PDF documents, and preprocessed data essential for building the character’s narrative knowledge.
+- Documents/: Supplementary resources, including historical references and research materials.
+- Evaluation/: Scripts and tools for evaluating character response quality and simulation performance.
+- Images/: Visual assets such as UI screenshots and images for enhancing the user experience.
+- Notebooks/: Jupyter notebooks covering data preprocessing, model training, and agent setup.
+- Scripts/: Python scripts for tasks like data processing, model fine-tuning, and embedding management.
+- UI/: A Flutter-based user interface, providing an intuitive and visually engaging interaction layer.
 ```
 ---
 
@@ -110,5 +110,3 @@ Special thanks to:
 - **Qdrant** for efficient vector storage and retrieval.
 
 ---
-
-This professional, modern `README.md` highlights project features, technology, and setup in a structured, visually appealing way. Let me know if you'd like further customization!
